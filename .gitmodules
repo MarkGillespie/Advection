@@ -1,0 +1,7 @@
+[submodule "deps/polyscope"]
+	path = deps/polyscope
+	url = git@github.com:MarkGillespie/polyscope.git
+	branch = animation
+[submodule "deps/enoki"]
+	path = deps/enoki
+	url = git@github.com:mitsuba-renderer/enoki
